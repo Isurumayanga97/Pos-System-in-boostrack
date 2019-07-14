@@ -1,0 +1,153 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.dashnav{
+    background-color: #007bff;
+}
+.logotext{
+    color: white!important;
+}
+.logotext:hover{
+    color: #1c7430!important;
+}
+#search{
+    background-color:#ffb84d;
+    color: white;
+    border:1px solid black;
+}
+#search:hover{
+    background-color: #009900;
+}
+
+.sidebart{
+    position: fixed;
+    left: 0px;
+    background:#666666!important;
+    top:52px;
+}
+
+.custform{
+    position: relative;
+    top: 160px;
+}
+#h1{
+    position: absolute;
+    top: 52px;
+    left: 228px;
+    font-style: italic;
+    /*background-color: #85a3e0;*/
+    color: black;
+    font-weight: normal;
+    width: 460px;
+    z-index: -1000;
+}
+
+#sidebar-wrapper {
+    min-height: 100vh;
+    position: fixed;
+    padding-top: 80px;
+    z-index: 100;
+}
+
+#dashiamge{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    border: solid gold;
+    margin-bottom: 30px;
+    position: relative;
+    left: 20px;
+}
+#one:hover{
+    background-color: #1c7430!important;
+    color: white;
+}
+#two:hover{
+    background-color: #1c7430!important;
+    color: white;
+}
+#three:hover{
+    background-color: #1c7430!important;
+    color: white;
+}
+#four:hover{
+    background-color: #1c7430!important;
+    color: white;
+}
+#five:hover{
+    background-color: #1c7430!important;
+    color: white;
+}
+#six:hover{
+    background-color: #1c7430!important;
+    color: white;
+}
+.navtext{
+    background-color: #d6e0f5;
+}
+#one{
+    font-size: 25px!important;
+    color: black;
+}
+#two{
+    font-size: 25px!important;
+    color: black;
+}
+#three{
+    font-size: 25px!important;
+    color: black;
+}
+#four{
+    font-size: 25px!important;
+    color: black;
+}
+#five{
+    font-size: 25px!important;
+    color: black;
+}
+#six{
+    font-size: 25px!important;
+    color: black;
+}
+.btngrp{
+    position: fixed!important;
+    top: 177px;
+}
+#add{
+   width: 180px;
+    margin-bottom: 70px;
+}
+#add:hover{
+    background-color: #0000b3;
+}
+#delete{
+    width: 180px;
+    margin-bottom: 70px;
+    background-color: #ff8566;
+}
+#delete:hover{
+    background: #e60000;
+}
+#update{
+    width: 180px;
+    margin-bottom: 70px;
+    background-color: #9fdf9f;
+}
+#update:hover{
+    background-color:#006600 ;
+}
+
+#refresh{
+    width: 180px;
+    background-color: #808000;
+}
+#refresh:hover{
+    background-color: black;
+    color: white;
+}
+#select{
+    margin-right: 10px!important;
+    border-radius: 10px!important;
+    padding: 2px;
+}
